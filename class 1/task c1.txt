@@ -1,0 +1,7 @@
+create a folder and index.html
+make a folder inside it cenima and films
+inside it cenima there should be two files of capri and duplex 
+and inside the films there should be one file of Mola Jutt,
+
+
+all of tholse handle and switch the page through index.html 

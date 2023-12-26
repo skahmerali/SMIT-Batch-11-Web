@@ -1,0 +1,12 @@
+create a folder with a name of task 1 
+first make one file with a name of index.html
+then make a folder inside it with a name of cenima and films
+inside the cenima folder there should be two files of capri.html and duplex.html 
+and inside the films there should be one file of MolaJutt.html,
+
+
+all of those handle and switch the page through index.html
+
+inside the index.html there should be 3 ul and li where you all can make links through <a> tag and link through the href attribute . 
+
+ 
