@@ -8,7 +8,9 @@
 8 ==> git push
 9 ==> click on setting tab and go the page section which is inside the left side bar 
 10 ==> to set the the branch none to main and save it 
-
+====> for first and only time 
+git config --global user.name "github ki id ka name"
+git config --global user.email "github ki id ka email"
 
 
 2nd way 
