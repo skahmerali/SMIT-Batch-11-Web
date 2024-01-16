@@ -1,0 +1,33 @@
+/* div {
+    width: 300px;
+    padding: 50px;
+    border: 20px solid #0088dd;
+}
+
+div.example {
+    margin: auto;
+} */
+
+.navbar {
+    width: 1000px;
+    background-color: rgb(140, 140, 142);
+    color: white;
+}
+.navbar ul{
+    width: 100%;
+}
+.navbar ul li {
+    display: inline-block;
+    margin: 20px;
+    text-decoration: none;
+   
+}
+.navbar ul .register {
+    background-color: red;
+    /* text-align: right; */
+    padding: 30px;
+    /* width: 20px; */
+    margin-left: 400px;
+    border-radius: 20px;
+    visibility: hidden;
+}
