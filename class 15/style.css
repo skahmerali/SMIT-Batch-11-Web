@@ -1,0 +1,47 @@
+.main{
+    width: 100%;
+    height: 1000px;
+    background-color:rgb(131, 131, 131) ;
+}
+
+.header{
+    width: 100%;
+    height: 100px;
+    background-color:rgb(255, 165, 82) ;
+}
+.logo{
+    width: 20%;
+    height: 90%;
+    background-color:rgb(255, 3, 3);
+    display: inline-block;
+    /* position: relative; */
+    float: left;
+}
+.navbar{
+    width: 50%;
+    height: 90%;
+    background-color:rgb(29, 31, 182) ;
+    display: inline-block;
+    float: right;
+}
+.body{
+    width: 100%;
+    height: 500px;
+    background-color:rgb(131, 131, 131) ;
+}
+.left{
+    width: 49%;
+    height: 100%;
+    background-color:rgb(255, 4, 4) ;
+    display: inline-block;
+    float: left;
+    border-right: 2px solid black;
+    border-width: 11px;
+}
+.right{
+    width: 50%;
+    height: 100%;
+    background-color:rgb(255, 4, 234) ;
+    display: inline-block;
+    float: right;
+}
