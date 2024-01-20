@@ -1,0 +1,60 @@
+p.example {
+    /* width: 100px; */
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+
+p.examp {
+    /* width: 100px; */
+    position: relative;
+    top: 40px;
+    left: 100px;
+}
+
+/* 
+.positionH1 {
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    width: 250px;
+    background-color: red;
+    z-index: 1;
+} */
+
+.positionP {
+    /* width: 450px; */
+    /* z-index: 1000; */
+}
+
+h1 {
+    display: inline-block;
+    position: fixed;
+    /* top: 0px; */
+    /* left: 50px; */
+    /* padding: 10px; */
+    margin: 0px;
+    width: 30%;
+    background-color: #ffffff;
+    z-index: 10;
+    float: left;
+    height: 500px;
+}
+
+p.example {
+    /* margin-top: 100px; */
+    display: inline-block;
+    float: right;
+    width: 35%;
+}
+/* @media screen {
+    
+} */
+button{
+    width: 100px;
+    background-color: green;
+    border: 2px solid yellow;
+    border-radius: 20px;
+    color: #ffffff;
+    padding: 5px;
+}
