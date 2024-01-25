@@ -1,0 +1,25 @@
+body{
+    width: 1000px;
+}
+.navbar{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+.navbar-logo{
+    display: inline-block;
+    float: left;
+}
+.navbar-items{
+    display: inline-block;
+    float: right;
+}
+.navbar-items ul{
+    display: inline-block;
+}
+.navbar-items ul li{
+    display: inline-block;
+}
+.dots{
+    display: none;
+}
