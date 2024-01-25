@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+.nav-brand {
+    font-size: 1.5rem;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.nav-links {
+    display: inline-block;
+    float: right;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.menu-icon {
+    display: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    float: right;
+}
+
+  
+@media screen and (max-width: 768px) {
+    .nav-links {
+        display: none;
+    }
+
+    .menu-icon {
+        display: inline-block;
+    }
+}
