@@ -1,0 +1,42 @@
+.container {
+    height: 1000px;
+    /* width: 40px; */
+    background-color: rgb(142, 142, 255);
+    border: 2px solid black;
+    display: flex;
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse; */
+    /* flex-wrap: nowrap; */
+    /* flex-wrap: wrap; */
+    /* justify-content: flex-start;
+    justify-content: flex-end; */
+    /* justify-content: center; */
+    /* justify-content: space-around; */
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+.child {
+    height: 100px;
+    width: 40px;
+    background-color: rgb(255, 244, 142);
+    border: 2px solid black;
+    color: rgb(255, 0, 0);
+}
+.A{
+    /* width: 1000px; */
+    background-color: rgb(142, 153, 255);
+    flex-shrink: 3;
+
+}
+.B{
+    order: 2;
+    /* flex-grow: 5; */
+    /* height: 200px; */
+
+}
+.D{
+    order: 3;
+    flex-grow: 3;
+}
