@@ -43,5 +43,7 @@ var classStudents = ["hussain", "kaif", "ismail", "zain", hasnain]
 // console.log(classStudents);
 // console.log(classStudents[2]);
 // classStudents.splice(1 , 3)
-console.log(classStudents.splice(1 , 1, 'ahmer', 'ali'));
-console.log(classStudents);
+// console.log(classStudents.splice(1 , 1, 'ahmer', 'ali'));
+// console.log(classStudents);
+
+
